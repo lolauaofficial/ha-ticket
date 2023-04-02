@@ -1,0 +1,14 @@
+{
+  "clientId": "Bot Client ID",
+  "token": "Your Bot Token",
+
+  "parentOpened": "IdOfCategoryTickets",
+  "Category1": "Type a Ticket Reason here",
+  "Category2": "Type a Ticket Reason here",
+  "Category3": "Type a Ticket Reason here",
+
+  "roleSupport": "ID Of Discord Supporter Role To Ping",
+  
+  "logsTicket": "Discord Log Channel ID",
+  "ticketChannel": "Discord Channel to send Creation Ticket"
+}
